@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1557915314 source:f:\rekursif array\rekursif array\fungsi.c
+	"header.h"
+
+1557915224 f:\rekursif array\rekursif array\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1557914782 source:f:\rekursif array\rekursif array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1557915314 source:d:\udinus\algoritma pemrograman\materi setelah uts\pertemuan 2\rekursif array\rekursif array\fungsi.c
+	"header.h"
+
+1557915224 d:\udinus\algoritma pemrograman\materi setelah uts\pertemuan 2\rekursif array\rekursif array\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1557915326 source:d:\udinus\algoritma pemrograman\materi setelah uts\pertemuan 2\rekursif array\rekursif array\main.c
+	<stdio.h>
+	<stdlib.h>
+

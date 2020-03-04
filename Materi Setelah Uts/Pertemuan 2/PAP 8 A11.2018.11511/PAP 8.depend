@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1558508339 source:d:\udinus\algoritma pemrograman\materi setelah uts\pertemuan 2\pap 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1558507669 source:d:\udinus\algoritma pemrograman\materi setelah uts\pertemuan 2\pap 8\pustaka.c
+	"pustaka.h"
+
+1558507464 d:\udinus\algoritma pemrograman\materi setelah uts\pertemuan 2\pap 8\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1558511509 source:d:\udinus\algoritma pemrograman\materi setelah uts\pertemuan 2\pap 8 a11.2018.11511\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1558511189 d:\udinus\algoritma pemrograman\materi setelah uts\pertemuan 2\pap 8 a11.2018.11511\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1558511150 source:d:\udinus\algoritma pemrograman\materi setelah uts\pertemuan 2\pap 8 a11.2018.11511\pustaka.c
+	"pustaka.h"
+

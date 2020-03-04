@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1561535735 source:d:\udinus\algoritma pemrograman\struktur\pap10 a11.2018.11511\main.c
+	"header.h"
+
+1561534059 d:\udinus\algoritma pemrograman\struktur\pap10 a11.2018.11511\header.h
+	<stdio.h>
+	<stdlib.h>
+

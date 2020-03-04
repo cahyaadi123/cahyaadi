@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1559053687 source:c:\users\peni a\documents\pap 9\pustaka.c
+	"header.h"
+
+1559053687 c:\users\peni a\documents\pap 9\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1559053840 source:c:\users\peni a\documents\pap 9\main.c
+	"header.h"
+
+1559054451 source:d:\udinus\algoritma pemrograman\materi setelah uts\pap 9\main.c
+	"header.h"
+
+1559053687 d:\udinus\algoritma pemrograman\materi setelah uts\pap 9\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1559053687 source:d:\udinus\algoritma pemrograman\materi setelah uts\pap 9\pustaka.c
+	"header.h"
+

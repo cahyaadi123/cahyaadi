@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1551860775 source:e:\udinus\semester 2\algoritma pemrograman\tugas pap 1\program 3 file\fungsi.c
+	"header.h"
+
+1551860457 e:\udinus\semester 2\algoritma pemrograman\tugas pap 1\program 3 file\header.h
+
+1551860851 source:e:\udinus\semester 2\algoritma pemrograman\tugas pap 1\program 3 file\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

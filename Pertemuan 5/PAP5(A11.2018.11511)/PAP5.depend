@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1553945828 source:g:\code block\pap5\fungsi.c
+	"header.h"
+
+1553945752 g:\code block\pap5\header.h
+
+1553946366 source:g:\code block\pap5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1553946438 source:d:\udinus\pap5\fungsi.c
+	"header.h"
+
+1554171519 d:\udinus\pap5\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1554171491 source:d:\udinus\pap5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1554170807 source:d:\udinus\algoritma pemrograman\pertemuan 5\pap5 a11.2018.11511\fungsi.c
+	"header.h"
+
+1554170856 d:\udinus\algoritma pemrograman\pertemuan 5\pap5 a11.2018.11511\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553946438 source:d:\udinus\pap5(a11.2018.11511)\fungsi.c
+	"header.h"
+
+1554171519 d:\udinus\pap5(a11.2018.11511)\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1554171634 source:d:\udinus\pap5(a11.2018.11511)\main.c
+	<stdio.h>
+	<stdlib.h>
+

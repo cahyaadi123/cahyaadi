@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1552472024 source:f:\pertemuan 3\lamateri3\main.c
+	"header.h"
+
+1552472032 f:\pertemuan 3\lamateri3\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1552472026 source:f:\pertemuan 3\lamateri3\fungsi.c
+	"header.h"
+

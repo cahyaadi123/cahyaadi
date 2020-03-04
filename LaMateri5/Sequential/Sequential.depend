@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553683643 source:d:\lamateri5\sequential\fungsi.c
+	"header.h"
+
+1553683279 d:\lamateri5\sequential\header.h
+	<stdio.h>
+	<stdlib.h>
+

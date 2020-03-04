@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1521084057 source:c:\users\chris_\music\tugas2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"header.h"
+
+1521083970 c:\users\chris_\music\tugas2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1521084064 source:c:\users\chris_\music\tugas2\pustaka.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"header.h"
+
+1521084057 source:c:\kuliah\tugas2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"header.h"
+
+1521083970 c:\kuliah\tugas2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1521084064 source:c:\kuliah\tugas2\pustaka.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"header.h"
+
+1552415008 source:g:\system volume information\tugas2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"header.h"
+
+1552414644 g:\system volume information\tugas2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1552414646 source:g:\system volume information\tugas2\pustaka.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"header.h"
+
+1552415008 source:g:\a11.2018.11511\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"header.h"
+
+1552414644 g:\a11.2018.11511\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1552414646 source:g:\a11.2018.11511\pustaka.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"header.h"
+

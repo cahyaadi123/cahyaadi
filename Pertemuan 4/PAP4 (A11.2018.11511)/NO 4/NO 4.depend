@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553669440 source:e:\udinus\semester 2\algoritma pemrograman\pertemuan 4\pap4 (a11.2018.11511)\no 4\fungsi.c
+	"header.h"
+
+1553669440 e:\udinus\semester 2\algoritma pemrograman\pertemuan 4\pap4 (a11.2018.11511)\no 4\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553669440 source:e:\udinus\semester 2\algoritma pemrograman\pertemuan 4\pap4 (a11.2018.11511)\no 4\main.c
+	"header.h"
+

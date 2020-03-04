@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553681805 source:d:\lamateri5\lamateri5\fungsi.c
+	"header.h"
+
+1553681777 d:\lamateri5\lamateri5\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553681894 source:d:\lamateri5\lamateri5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

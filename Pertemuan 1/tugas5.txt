@@ -1,0 +1,17 @@
+header
+int len_text(char text[]);
+
+
+file
+int len_text(char text[]){
+	int i;
+	for(i=0; text[i]!='\0', i++)
+	{
+	}
+	return i;
+}
+
+
+main
+printf("Panjang text \"s\" adalah %d karakter\n", "Laki-laki", len_text("Laki-Laki"));
+

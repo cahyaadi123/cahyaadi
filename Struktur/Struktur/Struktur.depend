@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1560941085 source:d:\a11.2018.11511\struktur\struktur\fungsi.c
+	"header.h"
+
+1560941085 d:\a11.2018.11511\struktur\struktur\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1560941166 source:d:\a11.2018.11511\struktur\struktur\main.c
+	"header.h"
+
+1560941086 source:d:\udinus\algoritma pemrograman\struktur\struktur\fungsi.c
+	"header.h"
+
+1560941086 d:\udinus\algoritma pemrograman\struktur\struktur\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1560941168 source:d:\udinus\algoritma pemrograman\struktur\struktur\main.c
+	"header.h"
+

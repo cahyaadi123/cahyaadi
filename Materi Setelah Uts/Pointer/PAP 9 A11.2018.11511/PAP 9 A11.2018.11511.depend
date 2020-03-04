@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1559111956 source:d:\udinus\algoritma pemrograman\materi setelah uts\pap 9 a11.2018.11511\pustaka.c
+	"pustaka.h"
+
+1559111880 d:\udinus\algoritma pemrograman\materi setelah uts\pap 9 a11.2018.11511\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1559110789 source:d:\udinus\algoritma pemrograman\materi setelah uts\pap 9 a11.2018.11511\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+

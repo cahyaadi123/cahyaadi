@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1551263268 source:f:\kuliah ipul\algoritma pemrograman\pertemuan 1\latihan 1\latihan 1\main.c
+	"header.h"
+
+1551263428 f:\kuliah ipul\algoritma pemrograman\pertemuan 1\latihan 1\latihan 1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1551263412 source:f:\kuliah ipul\algoritma pemrograman\pertemuan 1\latihan 1\latihan 1\fungsi.c
+	"header.h"
+
+1551263412 source:e:\udinus\semester 2\algoritma pemrograman\pertemuan 1\latihan 1\latihan 1\fungsi.c
+	"header.h"
+
+1551263428 e:\udinus\semester 2\algoritma pemrograman\pertemuan 1\latihan 1\latihan 1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1551263610 source:e:\udinus\semester 2\algoritma pemrograman\pertemuan 1\latihan 1\latihan 1\main.c
+	"header.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1552473456 source:f:\pertemuan 3\bubbleshort\fungsi.c
+	"header.h"
+
+1552472924 f:\pertemuan 3\bubbleshort\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1552474094 source:f:\pertemuan 3\bubbleshort\main.c
+	"header.h"
+

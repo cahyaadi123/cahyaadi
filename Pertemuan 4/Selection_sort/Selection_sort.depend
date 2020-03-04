@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1553079358 source:e:\selection_sort\fungsi.c
+	"header.h"
+
+1553079000 e:\selection_sort\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553079302 source:e:\selection_sort\main.c
+	"header.h"
+
+1553675355 source:d:\udinus\algoritma pemrograman\pertemuan 4\selection_sort\fungsi.c
+	"header.h"
+
+1553675355 d:\udinus\algoritma pemrograman\pertemuan 4\selection_sort\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553675356 source:d:\udinus\algoritma pemrograman\pertemuan 4\selection_sort\main.c
+	"header.h"
+

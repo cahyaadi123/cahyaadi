@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1551866818 source:f:\kuliah ipul\semester 2\algoritma pemrograman\lamateri 2\fungsi.c
+	"header.h"
+
+1551866818 f:\kuliah ipul\semester 2\algoritma pemrograman\lamateri 2\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1551866824 source:f:\kuliah ipul\semester 2\algoritma pemrograman\lamateri 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1551866008 f:\kuliah ipul\semester 2\algoritma pemrograman\lamateri 2\fungsi.c
+	"header.h"
+
+1551868574 source:f:\kuliah ipul\semester 2\algoritma pemrograman\pertemuan 2\pemahaman\fungsi.c
+	"header.h"
+
+1551868544 f:\kuliah ipul\semester 2\algoritma pemrograman\pertemuan 2\pemahaman\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1551868544 source:f:\kuliah ipul\semester 2\algoritma pemrograman\pertemuan 2\pemahaman\main.c
+	"header.h"
+
+1551868574 source:g:\kuliah ipul\semester 2\algoritma pemrograman\pertemuan 2\pemahaman\fungsi.c
+	"header.h"
+
+1551868544 g:\kuliah ipul\semester 2\algoritma pemrograman\pertemuan 2\pemahaman\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1551869098 source:g:\kuliah ipul\semester 2\algoritma pemrograman\pertemuan 2\pemahaman\main.c
+	"header.h"
+

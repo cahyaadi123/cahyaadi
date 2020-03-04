@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1553076849 source:c:\users\labdas\desktop\pemahaman\fungsi.c
+	"header.h"
+
+1553074808 c:\users\labdas\desktop\pemahaman\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553076772 source:c:\users\labdas\desktop\pemahaman\main.c
+	"header.h"
+
+1553076850 source:c:\users\aspire\pictures\videowebdownloader\kuliah ipul\pemahaman\fungsi.c
+	"header.h"
+
+1553074810 c:\users\aspire\pictures\videowebdownloader\kuliah ipul\pemahaman\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553076874 source:c:\users\aspire\pictures\videowebdownloader\kuliah ipul\pemahaman\main.c
+	"header.h"
+
